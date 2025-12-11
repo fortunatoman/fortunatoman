@@ -262,8 +262,6 @@
 
 ### 🏆 GitHub Profile Trophy
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Phoenix-ryan-1111&theme=algolia)](https://github.com/ryo-ma/github-profile-trophy)
-
 <!-- activity graph heroku-app start -->
 <p align="center">
     <a href="https://github-readme-activity-graph.vercel.app/graph?username=devafortun&theme=react-dark&hide_border=true&hide_title=false&area=true&custom_title=Total%20contribution%20graph%20in%20all%20repo">
@@ -273,15 +271,3 @@
 <!-- activity graph heroku-app end -->
 
 ![Snake gif](https://github.com/devafortun/github-contribution-grid-snake.svg/blob/main/github-contribution-grid-snake.svg)
-
-### 📊 GitHub Stats
-
-<b>My GitHub Statistics</b>
-
-<a href="#">
-  <img height="160px" align="center" src="https://github-readme-stats.vercel.app/api?username=Mujeeb4582&show_icons=true&theme=cobalt&layout=compact" />
-</a>
-
-<a href="#">
-  <img height="160px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mujeeb4582&langs_count=8&theme=cobalt&layout=compact" />
-</a>
