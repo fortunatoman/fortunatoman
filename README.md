@@ -13,7 +13,7 @@
 
 ### 💎 ABOUT ME
 
-- **AI-Powered Full Stack Developer** with 5+ years of experience building intelligent, scalable web applications.✨
+- **AI-Powered Full Stack Developer** with 4+ years of experience building intelligent, scalable web applications.✨
 - Specialized in integrating **AI/ML capabilities** into full-stack solutions, from computer vision to deep learning models.🤖
 - Passionate about creating seamless user experiences by combining cutting-edge AI technologies with robust backend systems and modern frontend frameworks.💯
 - Expert in end-to-end development: from designing AI-powered features to deploying production-ready applications.🚀
