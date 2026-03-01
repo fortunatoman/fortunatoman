@@ -20,7 +20,7 @@
 - Committed to leveraging **artificial intelligence** to solve complex problems and drive innovation in web development.👨‍💻
 - I value **collaboration, continuous learning, and delivering high-quality solutions** that make a real impact.👯‍♂️
 
-### 🌐 Connect with me:
+<!-- ## 🌐 Connect with me: -->
 
 <!-- - [![Telegram](https://img.shields.io/badge/Telegram-0088cc?style=flat&logo=telegram&logoColor=white)](https://t.me/Minato_95) - @super3dev9star-->
 <!-- - [![Discord](https://img.shields.io/badge/Discord-7289DA?style=flat&logo=discord&logoColor=white)](https://discord.gg/popularity_star) - popularity_star -->
