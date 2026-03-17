@@ -43,6 +43,10 @@
 <br>JavaScript
 </td>
     <td align="center" width="123.4">
+<img src="https://techstack-generator.vercel.app/ts-icon.svg" height="50" alt="TypeScript" />
+<br>TypeScript
+</td>
+    <td align="center" width="123.4">
 <img src="https://techstack-generator.vercel.app/python-icon.svg" height="50" alt="Python" />
 <br>Python
 </td>
