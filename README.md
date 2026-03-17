@@ -13,11 +13,11 @@
 
 ### 💎 ABOUT ME
 
-* **Senior Software Engineer** with 6+ years of experience building scalable, high-performance applications.✨
-* Expertise in **React, TypeScript, Node.js, and Python**—delivering reliable systems, AI integrations, and automation solutions.🤖
+* **Senior Software Engineer** experienced in building scalable, high-performance applications.✨
+* Expertise in **React, TypeScript, Node.js, and Python** delivering reliable systems, AI integrations, and automation solutions.🤖
 * Focused on **scalable architecture** and helping teams ship maintainable, production-ready software.💯
 * Led full-stack development and AI-powered automation that cut manual operational tasks by ~40% and improved API performance by 25%.🚀
-* Strong advocate for **clean code, code review, and mentoring**—enjoy guiding junior and mid-level engineers through architecture and best practices.👨‍💻
+* Strong advocate for **clean code, code review, and mentoring** enjoy guiding junior and mid-level engineers through architecture and best practices.👨‍💻
 * I value **collaboration with product and business teams**, turning complex requirements into technical solutions that accelerate delivery.👯‍♂️
 
 ### 🌐 Connect with me:
