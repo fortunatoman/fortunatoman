@@ -301,7 +301,7 @@
   </tr>
   <tr>
     <td align="center" width="123.4">Testing (Unit / Integration)</td>
-    <td align="center" width="123.4">Performance Optimization</td>
+    <td align="center" colspan="2" width="123.4">Performance Optimization</td>
     <td align="center" width="123.4">Agile Development</td>
   </tr>
 </table>
