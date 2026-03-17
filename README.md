@@ -97,12 +97,16 @@
 <br>Vue.js
 </td>
     <td align="center" width="123.4">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="50" alt="Redux" />
-<br>Redux
+<img src="https://img.jsdelivr.com/github.com/Shopify.png" height="50" alt="Shopify" />
+<br>Shopify
 </td>
     <td align="center" width="123.4">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/shopify/shopify-original.svg" height="50" alt="Shopify" />
-<br>Shopify
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" height="50" alt=".NET" />
+<br>.NET
+</td>
+    <td align="center" width="123.4">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="50" alt="Redux" />
+<br>Redux
 </td>
     <td align="center" width="123.4">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="50" alt="Tailwind" />
@@ -111,10 +115,6 @@
     <td align="center" width="123.4">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" height="50" alt="MUI" />
 <br>MUI
-</td>
-    <td align="center" width="123.4">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" height="50" alt=".NET" />
-<br>.NET
 </td>
   </tr>
   <tr>
