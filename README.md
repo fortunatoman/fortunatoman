@@ -171,8 +171,7 @@
 </td>
   </tr>
   <tr>
-    <td align="center" width="123.4"><b>REST APIs</b></td>
-    <td align="center" width="123.4"><b>GraphQL</b></td>
+    <td align="center" colspan="7" width="123.4"><b>REST APIs</b>, <b>GraphQL</b></td>
   </tr>
 </table>
 </details>
