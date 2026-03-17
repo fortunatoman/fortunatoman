@@ -70,10 +70,6 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="50" alt="C#" />
 <br>C#
 </td>
-    <td align="center" width="123.4">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/shopify/shopify-original.svg" height="50" alt="Liquid" />
-<br>Liquid
-</td>
   </tr>
 </table>
 </details>
@@ -105,8 +101,8 @@
 <br>Redux
 </td>
     <td align="center" width="123.4">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/threejs/threejs-original.svg" height="50" alt="Three.js" />
-<br>Three.js
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/shopify/shopify-original.svg" height="50" alt="Shopify" />
+<br>Shopify
 </td>
     <td align="center" width="123.4">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="50" alt="Tailwind" />
