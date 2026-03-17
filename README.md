@@ -34,8 +34,7 @@
 
 <!-- Programming Languages -->
 
-<details>
-<summary><b>💻 Programming Languages</b></summary>
+<b>💻 Programming Languages</b>
 <table align="center">
   <tr>
     <td align="center" width="123.4">
@@ -76,12 +75,11 @@
 </td>
   </tr>
 </table>
-</details>
+
 
 <!-- Frontend Development -->
 
-<details>
-<summary><b>🎨 Frontend Development</b></summary>
+<b>🎨 Frontend Development</b>
 <table align="center">
   <tr>
     <td align="center" width="123.4">
@@ -129,8 +127,7 @@
 
 <!-- Backend Development -->
 
-<details>
-<summary><b>⚙️ Backend Development</b></summary>
+<b>⚙️ Backend Development</b>
 <table align="center">
   <tr>
     <td align="center" width="123.4">
@@ -174,12 +171,10 @@
     <td align="center" colspan="9" width="123.4"><b>REST APIs</b>, <b>GraphQL</b></td>
   </tr>
 </table>
-</details>
 
 <!-- Mobile Development -->
 
-<details>
-<summary><b>📱 Mobile Development</b></summary>
+<b>📱 Mobile Development</b>
 <table align="center">
   <tr>
     <td align="center" width="123.4">
@@ -196,12 +191,10 @@
 </td>
   </tr>
 </table>
-</details>
 
 <!-- Databases -->
 
-<details>
-<summary><b>🗄️ Databases</b></summary>
+<b>🗄️ Databases</b>
 <table align="center">
   <tr>
     <td align="center" width="123.4">
@@ -237,12 +230,10 @@
     <td align="center" colspan="7"><em>Redis: Pub/Sub, Caching</em></td>
   </tr>
 </table>
-</details>
 
 <!-- Cloud & DevOps -->
 
-<details>
-<summary><b>☁️ Cloud & DevOps</b></summary>
+<b>☁️ Cloud & DevOps</b>
 <table align="center">
   <tr>
     <td align="center" width="123.4">
@@ -270,12 +261,10 @@
     <td align="center" colspan="5"><b>CI/CD Pipelines</b></td>
   </tr>
 </table>
-</details>
 
 <!-- AI & Automation -->
 
-<details>
-<summary><b>🤖 AI & Automation</b></summary>
+<b>🤖 AI & Automation</b>
 <table align="center">
   <tr>
     <td align="center" width="123.4"><b>OpenAI API</b></td>
@@ -285,12 +274,10 @@
     <td align="center" width="123.4"><b>Workflow Automation</b></td>
   </tr>
 </table>
-</details>
 
 <!-- Software Engineering Practices -->
 
-<details>
-<summary><b>📐 Software Engineering Practices</b></summary>
+<b>📐 Software Engineering Practices</b>
 <table align="center">
   <tr>
     <td align="center" width="123.4">System Design</td>
@@ -304,7 +291,6 @@
     <td align="center" width="123.4">Agile Development</td>
   </tr>
 </table>
-</details>
 
 <!-- - ### 🏆 GitHub Profile Trophy -->
 
