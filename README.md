@@ -20,21 +20,6 @@
 * Strong advocate for **clean code, code review, and mentoring** enjoy guiding junior and mid-level engineers through architecture and best practices.👨‍💻
 * I value **collaboration with product and business teams**, turning complex requirements into technical solutions that accelerate delivery.👯‍♂️
 
-<h2 align="center">🔥 GitHub Stats 🔥</h2>
-<br>
-<div align=center>
-  <a href="#" title="LiusDev">
-    <img width="350" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LiusDev&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
-  </a>
-  &nbsp;
-  &nbsp;
-  <a href="#" title="LiusDev">
-    <img width="400" align="center" src="https://github-readme-stats.vercel.app/api?username=LiusDev&theme=radical&hide_border=false&include_all_commits=false&count_private=false" />
-  </a>
-  &nbsp;
-  &nbsp;
-</div>
-
 <!-- - ### 🌐 Connect with me: -->
 
 <!-- - [![Telegram](https://img.shields.io/badge/Telegram-0088cc?style=flat&logo=telegram&logoColor=white)](https://t.me/Minato_95) - @super3dev9star-->
