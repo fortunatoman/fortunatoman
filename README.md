@@ -20,6 +20,23 @@
 * Strong advocate for **clean code, code review, and mentoring** enjoy guiding junior and mid-level engineers through architecture and best practices.👨‍💻
 * I value **collaboration with product and business teams**, turning complex requirements into technical solutions that accelerate delivery.👯‍♂️
 
+<h2 align="center">🔥 GitHub Stats 🔥</h2>
+<br>
+<div align=center>
+  <img src="./isocalendar.svg">
+  <br>
+  <a href="#" title="LiusDev">
+    <img width="350" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LiusDev&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
+  </a>
+  &nbsp;
+  &nbsp;
+  <a href="#" title="LiusDev">
+    <img width="400" align="center" src="https://github-readme-stats.vercel.app/api?username=LiusDev&theme=radical&hide_border=false&include_all_commits=false&count_private=false" />
+  </a>
+  &nbsp;
+  &nbsp;
+</div>
+
 <!-- - ### 🌐 Connect with me: -->
 
 <!-- - [![Telegram](https://img.shields.io/badge/Telegram-0088cc?style=flat&logo=telegram&logoColor=white)](https://t.me/Minato_95) - @super3dev9star-->
@@ -35,6 +52,7 @@
 <!-- Programming Languages -->
 
 <b>💻 Programming Languages</b>
+
 <table align="center">
   <tr>
     <td align="center" width="123.4">
@@ -76,10 +94,10 @@
   </tr>
 </table>
 
-
 <!-- Frontend Development -->
 
 <b>🎨 Frontend Development</b>
+
 <table align="center">
   <tr>
     <td align="center" width="123.4">
@@ -128,6 +146,7 @@
 <!-- Backend Development -->
 
 <b>⚙️ Backend Development</b>
+
 <table align="center">
   <tr>
     <td align="center" width="123.4">
@@ -175,6 +194,7 @@
 <!-- Mobile Development -->
 
 <b>📱 Mobile Development</b>
+
 <table align="center">
   <tr>
     <td align="center" width="123.4">
@@ -195,6 +215,7 @@
 <!-- Databases -->
 
 <b>🗄️ Databases</b>
+
 <table align="center">
   <tr>
     <td align="center" width="123.4">
@@ -234,6 +255,7 @@
 <!-- Cloud & DevOps -->
 
 <b>☁️ Cloud & DevOps</b>
+
 <table align="center">
   <tr>
     <td align="center" width="123.4">
@@ -265,6 +287,7 @@
 <!-- AI & Automation -->
 
 <b>🤖 AI & Automation</b>
+
 <table align="center">
   <tr>
     <td align="center" width="123.4"><b>OpenAI API</b></td>
@@ -278,6 +301,7 @@
 <!-- Software Engineering Practices -->
 
 <b>📐 Software Engineering Practices</b>
+
 <table align="center">
   <tr>
     <td align="center" width="123.4">System Design</td>
@@ -301,6 +325,7 @@
         <img src="https://github-readme-activity-graph.vercel.app/graph?username=devafortun&theme=react-dark&hide_border=true&hide_title=false&area=true&custom_title=Total%20contribution%20graph%20in%20all%20repo" width="95%" alt="activity graph">
     </a>
 </p> -->
+
 <!-- activity graph heroku-app end -->
 
 ![Snake gif](https://github.com/devafortun/github-contribution-grid-snake.svg/blob/main/github-contribution-grid-snake.svg)
